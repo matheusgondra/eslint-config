@@ -1,12 +1,15 @@
 {
   "name": "@dgondra/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint configuration",
   "main": "index.js",
   "type": "module",
   "license": "ISC",
   "private": false,
   "packageManager": "pnpm@10.5.2",
+  "repository": {
+    "url": "https://github.com/matheusgondra/eslint-config-gondra"
+  },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
     "@typescript-eslint/parser": "^8.26.1",
