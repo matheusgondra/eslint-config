@@ -1,5 +1,5 @@
 {
-  "name": "@gondra/eslint-config",
+  "name": "@dgondra/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration",
   "main": "index.js",
