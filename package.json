@@ -4,5 +4,8 @@
   "description": "ESLint configuration",
   "main": "index.js",
   "license": "ISC",
-  "packageManager": "pnpm@10.5.2"
+  "packageManager": "pnpm@10.5.2",
+  "devDependencies": {
+    "eslint": "^9.22.0"
+  }
 }
