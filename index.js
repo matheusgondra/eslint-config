@@ -24,7 +24,7 @@ export default [
         },
       ],
     },
-    files: ["src/**/*.{ts,tsx}", "test/**/*.{ts,tsx}"],
+    files: ["src/**/*.{js,mjs,ts,tsx}", "test/**/*.{js,mjs,ts,tsx}"],
     ignores: ["node_modules", "dist"],
   },
   pluginJs.configs.recommended,
