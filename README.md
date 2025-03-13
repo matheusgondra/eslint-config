@@ -13,17 +13,17 @@ Este pacote fornece uma configuração personalizada do ESLint para projetos Jav
 
 **pnpm**
 ```bash
-pnpm add -D @gondra/eslint-config eslint
+pnpm add -D @dgondra/eslint-config eslint
 ```
 
 **yarn**
 ```bash
-yarn add -D @gondra/eslint-config eslint
+yarn add -D @dgondra/eslint-config eslint
 ```
 
 **npm**
 ```bash
-npm i -D @gondra/eslint-config eslint
+npm i -D @dgondra/eslint-config eslint
 ```
 
 ## Uso
@@ -31,7 +31,7 @@ npm i -D @gondra/eslint-config eslint
 Crie um arquivo de configuração do eslint e exporte a configuração do pacote
 
 ```js
-import config from "@gondra/eslint-config";
+import config from "@dgondra/eslint-config";
 
 export default config;
 ```
