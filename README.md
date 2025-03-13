@@ -1,4 +1,4 @@
-# @gondra/eslint-config
+# @dgondra/eslint-config
 
 Este pacote fornece uma configuração personalizada do ESLint para projetos JavaScript/TypeScript, integrando boas práticas com suporte para Prettier.
 

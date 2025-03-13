@@ -1,6 +1,6 @@
 {
   "name": "@dgondra/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint configuration",
   "main": "index.js",
   "type": "module",
