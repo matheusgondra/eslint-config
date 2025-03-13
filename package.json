@@ -15,5 +15,9 @@
     "globals": "^16.0.0",
     "prettier": "^3.5.3",
     "typescript-eslint": "^8.26.1"
+  },
+  "peerDependencies": {
+    "eslint": "^9.0.0",
+    "prettier": "^3.0.0"
   }
 }
