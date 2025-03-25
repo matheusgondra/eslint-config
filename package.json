@@ -1,6 +1,6 @@
 {
   "name": "@dgondra/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "ESLint configuration",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,7 @@
   "repository": {
     "url": "https://github.com/matheusgondra/eslint-config"
   },
-  "devDependencies": {
+  "dependencies": {
     "@eslint/js": "^9.22.0",
     "@typescript-eslint/parser": "^8.26.1",
     "eslint": "^9.22.0",
